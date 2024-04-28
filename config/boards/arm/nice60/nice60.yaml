@@ -1,4 +1,4 @@
-identifier: nrfmicro_13
+identifier: model-m-bt
 name: model-m-nrf
 type: mcu
 arch: arm
