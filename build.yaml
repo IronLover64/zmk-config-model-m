@@ -18,4 +18,4 @@
 #
 ---
 include:
-  - board: nrfmicro_13
+  - board: model-m-bt
