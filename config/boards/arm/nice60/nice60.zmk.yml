@@ -1,5 +1,5 @@
 file_format: "1"
-id: nrfmicro_13
+id: model-m-bt
 name: model-m-nrf
 type: board
 arch: arm
