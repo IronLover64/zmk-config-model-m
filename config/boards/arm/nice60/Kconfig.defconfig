@@ -4,7 +4,7 @@
 if BOARD_MODEL_M
 
 config ZMK_KEYBOARD_NAME
-    default "model-m-bt"
+    default "nrfmicro_13"
 
 if USB_DEVICE_STACK
 
